@@ -25,7 +25,8 @@ function App() {
         {
           code: 'M111',
           name: 'Analyse 1',
-          details: []
+          details: [],
+          link: "https://drive.google.com/drive/folders/1abc123"
         },
         {
           code: 'M112',
